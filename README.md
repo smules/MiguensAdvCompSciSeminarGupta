@@ -1,2 +1,2 @@
 # MiguensAdvCompSciSeminarGupta
-My repository for Machine Learning class
+![hello](https://github.com/smules/MiguensAdvCompSciSeminarGupta/blob/image.jpg?raw=true)
