@@ -1,2 +1,2 @@
 # MiguensAdvCompSciSeminarGupta
-![hello](https://github.com/smules/MiguensAdvCompSciSeminarGupta/blob/IMG_5036.jpg?raw=true)
+![hello](https://github.com/smules/MiguensAdvCompSciSeminarGupta/blob/main/IMG_5036.JPG?raw=true)
